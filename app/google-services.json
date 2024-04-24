@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904135879046",
+    "project_id": "dshoppy-b320f",
+    "storage_bucket": "dshoppy-b320f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904135879046:android:119d0a28088441a8b9a407",
+        "android_client_info": {
+          "package_name": "com.doniv.dshoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904135879046-83nhh11d64765v6uivavtp1ib2ktimim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMr7KxsFGn-YdE4RM3tORa-XJhG9XrPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904135879046-83nhh11d64765v6uivavtp1ib2ktimim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
